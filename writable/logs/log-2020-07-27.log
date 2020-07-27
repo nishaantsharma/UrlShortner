@@ -1,0 +1,138 @@
+CRITICAL - 2020-07-27 15:31:54 --> Decrypting: authentication failed.
+#0 /home/nishant/Nishant/project1/system/Encryption/Handlers/OpenSSLHandler.php(159): CodeIgniter\Encryption\Exceptions\EncryptionException::forAuthenticationFailed()
+#1 /home/nishant/Nishant/project1/app/Controllers/Home.php(42): CodeIgniter\Encryption\Handlers\OpenSSLHandler->decrypt('k+bhKijp0FsV+9a...')
+#2 /home/nishant/Nishant/project1/app/Controllers/Home.php(28): App\Controllers\Home->getToken(Array)
+#3 /home/nishant/Nishant/project1/app/Controllers/Home.php(23): App\Controllers\Home->setLink('marketing', Array)
+#4 /home/nishant/Nishant/project1/app/Controllers/Home.php(11): App\Controllers\Home->getLink(Array)
+#5 /home/nishant/Nishant/project1/system/CodeIgniter.php(918): App\Controllers\Home->index()
+#6 /home/nishant/Nishant/project1/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 /home/nishant/Nishant/project1/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/nishant/Nishant/project1/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-27 15:32:13 --> Decrypting: authentication failed.
+#0 /home/nishant/Nishant/project1/system/Encryption/Handlers/OpenSSLHandler.php(159): CodeIgniter\Encryption\Exceptions\EncryptionException::forAuthenticationFailed()
+#1 /home/nishant/Nishant/project1/app/Controllers/Home.php(42): CodeIgniter\Encryption\Handlers\OpenSSLHandler->decrypt('yUtYLgRSRxjTZsg...')
+#2 /home/nishant/Nishant/project1/app/Controllers/Home.php(28): App\Controllers\Home->getToken(Array)
+#3 /home/nishant/Nishant/project1/app/Controllers/Home.php(23): App\Controllers\Home->setLink('marketing', Array)
+#4 /home/nishant/Nishant/project1/app/Controllers/Home.php(11): App\Controllers\Home->getLink(Array)
+#5 /home/nishant/Nishant/project1/system/CodeIgniter.php(918): App\Controllers\Home->index()
+#6 /home/nishant/Nishant/project1/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 /home/nishant/Nishant/project1/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/nishant/Nishant/project1/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-27 15:32:30 --> Decrypting: authentication failed.
+#0 /home/nishant/Nishant/project1/system/Encryption/Handlers/OpenSSLHandler.php(159): CodeIgniter\Encryption\Exceptions\EncryptionException::forAuthenticationFailed()
+#1 /home/nishant/Nishant/project1/app/Controllers/Home.php(42): CodeIgniter\Encryption\Handlers\OpenSSLHandler->decrypt('yZQBahMtR69R2od...')
+#2 /home/nishant/Nishant/project1/app/Controllers/Home.php(28): App\Controllers\Home->getToken(Array)
+#3 /home/nishant/Nishant/project1/app/Controllers/Home.php(23): App\Controllers\Home->setLink('marketing', Array)
+#4 /home/nishant/Nishant/project1/app/Controllers/Home.php(11): App\Controllers\Home->getLink(Array)
+#5 /home/nishant/Nishant/project1/system/CodeIgniter.php(918): App\Controllers\Home->index()
+#6 /home/nishant/Nishant/project1/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 /home/nishant/Nishant/project1/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/nishant/Nishant/project1/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-27 15:34:12 --> Decrypting: authentication failed.
+#0 /home/nishant/Nishant/project1/system/Encryption/Handlers/OpenSSLHandler.php(159): CodeIgniter\Encryption\Exceptions\EncryptionException::forAuthenticationFailed()
+#1 /home/nishant/Nishant/project1/app/Controllers/Home.php(42): CodeIgniter\Encryption\Handlers\OpenSSLHandler->decrypt('GLNxV8ZVIALDSJ3...')
+#2 /home/nishant/Nishant/project1/app/Controllers/Home.php(28): App\Controllers\Home->getToken(Array)
+#3 /home/nishant/Nishant/project1/app/Controllers/Home.php(23): App\Controllers\Home->setLink('marketing', Array)
+#4 /home/nishant/Nishant/project1/app/Controllers/Home.php(11): App\Controllers\Home->getLink(Array)
+#5 /home/nishant/Nishant/project1/system/CodeIgniter.php(918): App\Controllers\Home->index()
+#6 /home/nishant/Nishant/project1/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 /home/nishant/Nishant/project1/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/nishant/Nishant/project1/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-27 15:34:27 --> Decrypting: authentication failed.
+#0 /home/nishant/Nishant/project1/system/Encryption/Handlers/OpenSSLHandler.php(159): CodeIgniter\Encryption\Exceptions\EncryptionException::forAuthenticationFailed()
+#1 /home/nishant/Nishant/project1/app/Controllers/Home.php(42): CodeIgniter\Encryption\Handlers\OpenSSLHandler->decrypt('e3tbkUb9R7r3gpr...')
+#2 /home/nishant/Nishant/project1/app/Controllers/Home.php(28): App\Controllers\Home->getToken(Array)
+#3 /home/nishant/Nishant/project1/app/Controllers/Home.php(23): App\Controllers\Home->setLink('marketing', Array)
+#4 /home/nishant/Nishant/project1/app/Controllers/Home.php(11): App\Controllers\Home->getLink(Array)
+#5 /home/nishant/Nishant/project1/system/CodeIgniter.php(918): App\Controllers\Home->index()
+#6 /home/nishant/Nishant/project1/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 /home/nishant/Nishant/project1/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/nishant/Nishant/project1/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-27 16:21:22 --> Unable to connect to the database.
+#0 /home/nishant/Nishant/project1/system/Database/BaseConnection.php(646): CodeIgniter\Database\BaseConnection->initialize()
+#1 /home/nishant/Nishant/project1/system/Database/BaseBuilder.php(1860): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 /home/nishant/Nishant/project1/system/Model.php(506): CodeIgniter\Database\BaseBuilder->get()
+#3 /home/nishant/Nishant/project1/app/Controllers/Home.php(72): CodeIgniter\Model->first()
+#4 /home/nishant/Nishant/project1/app/Controllers/Home.php(53): App\Controllers\Home->getURLCode('http://project_...')
+#5 /home/nishant/Nishant/project1/app/Controllers/Home.php(47): App\Controllers\Home->getSortedUrl('http://project_...')
+#6 /home/nishant/Nishant/project1/app/Controllers/Home.php(28): App\Controllers\Home->getLink(Array)
+#7 /home/nishant/Nishant/project1/system/CodeIgniter.php(918): App\Controllers\Home->index()
+#8 /home/nishant/Nishant/project1/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 /home/nishant/Nishant/project1/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /home/nishant/Nishant/project1/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2020-07-27 16:21:22 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in /home/nishant/Nishant/project1/app/Views/errors/html/error_exception.php:100
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', '/home/nishant/N...', 100, Array)
+#1 /home/nishant/Nishant/project1/app/Views/errors/html/error_exception.php(100): print_r(Object(App\Controllers\Home), true)
+#2 /home/nishant/Nishant/project1/system/Debug/Exceptions.php(308): include('/home/nishant/N...')
+#3 /home/nishant/Nishant/project1/system/Debug/Exceptions.php(174): CodeIgniter\Debug\Exceptions->render(Object(CodeIgniter\Database\Exceptions\DatabaseException), 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Database\Exceptions\DatabaseException))
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-07-27 16:24:00 --> Allowed fields must be specified for model: ShortenedUrl_Model
+#0 /home/nishant/Nishant/project1/system/Model.php(1265): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('ShortenedUrl_Mo...')
+#1 /home/nishant/Nishant/project1/system/Model.php(735): CodeIgniter\Model->doProtectFields(Array)
+#2 /home/nishant/Nishant/project1/app/Controllers/Home.php(61): CodeIgniter\Model->insert(Array)
+#3 /home/nishant/Nishant/project1/app/Controllers/Home.php(47): App\Controllers\Home->getSortedUrl('http://project_...')
+#4 /home/nishant/Nishant/project1/app/Controllers/Home.php(28): App\Controllers\Home->getLink(Array)
+#5 /home/nishant/Nishant/project1/system/CodeIgniter.php(918): App\Controllers\Home->index()
+#6 /home/nishant/Nishant/project1/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 /home/nishant/Nishant/project1/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/nishant/Nishant/project1/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-27 16:36:01 --> syntax error, unexpected '!', expecting '('
+#0 /home/nishant/Nishant/project1/system/Common.php(1119): CodeIgniter\View\View->render('url_view', Array, true)
+#1 /home/nishant/Nishant/project1/app/Controllers/Home.php(35): view('url_view', Array)
+#2 /home/nishant/Nishant/project1/system/CodeIgniter.php(918): App\Controllers\Home->index()
+#3 /home/nishant/Nishant/project1/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 /home/nishant/Nishant/project1/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/nishant/Nishant/project1/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-27 16:36:13 --> syntax error, unexpected '!', expecting '('
+#0 /home/nishant/Nishant/project1/system/Common.php(1119): CodeIgniter\View\View->render('url_view', Array, true)
+#1 /home/nishant/Nishant/project1/app/Controllers/Home.php(35): view('url_view', Array)
+#2 /home/nishant/Nishant/project1/system/CodeIgniter.php(918): App\Controllers\Home->index()
+#3 /home/nishant/Nishant/project1/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 /home/nishant/Nishant/project1/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/nishant/Nishant/project1/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-27 16:36:23 --> syntax error, unexpected '{'
+#0 /home/nishant/Nishant/project1/system/Common.php(1119): CodeIgniter\View\View->render('url_view', Array, true)
+#1 /home/nishant/Nishant/project1/app/Controllers/Home.php(35): view('url_view', Array)
+#2 /home/nishant/Nishant/project1/system/CodeIgniter.php(918): App\Controllers\Home->index()
+#3 /home/nishant/Nishant/project1/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 /home/nishant/Nishant/project1/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/nishant/Nishant/project1/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-27 16:48:26 --> syntax error, unexpected '}'
+#0 /home/nishant/Nishant/project1/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('/home/nishant/N...')
+#1 /home/nishant/Nishant/project1/system/Autoloader/Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /home/nishant/Nishant/project1/system/CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#5 /home/nishant/Nishant/project1/system/CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#6 /home/nishant/Nishant/project1/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/nishant/Nishant/project1/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-27 16:50:39 --> Illegal string offset 'query'
+#0 /home/nishant/Nishant/project1/app/Controllers/Home.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Illegal string ...', '/home/nishant/N...', 52, Array)
+#1 /home/nishant/Nishant/project1/system/CodeIgniter.php(918): App\Controllers\Home->landing()
+#2 /home/nishant/Nishant/project1/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/nishant/Nishant/project1/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/nishant/Nishant/project1/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-27 16:59:41 --> Invalid argument supplied for foreach()
+#0 /home/nishant/Nishant/project1/app/Controllers/Home.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/home/nishant/N...', 60, Array)
+#1 /home/nishant/Nishant/project1/system/CodeIgniter.php(918): App\Controllers\Home->landing()
+#2 /home/nishant/Nishant/project1/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/nishant/Nishant/project1/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/nishant/Nishant/project1/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
