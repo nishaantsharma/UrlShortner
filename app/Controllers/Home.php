@@ -12,9 +12,9 @@ class Home extends BaseController
 
     public function __construct()
     {
-        $this->secret         = 'RandomKeyGeneratedForUrlHashing';
+        $this->secret         = ''; // randomKey
         $this->method         = 'AES-256-CTR';
-        $this->initVector     = "0123456789012345";
+        $this->initVector     = ""; // INITVECTOR
 
         $this->shortenedModel = new ShortenedUrl_Model();
     }
